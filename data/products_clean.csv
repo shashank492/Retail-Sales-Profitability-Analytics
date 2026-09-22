@@ -1,0 +1,121 @@
+Product_ID,Product_Name,Category,Sub_Category,Cost_Price,Selling_Price
+P0001,Laptops Product 001,Electronics,Laptops,4095.31,6037.22
+P0002,Binders Product 002,Office Supplies,Binders,18982.87,26523.14
+P0003,Personal Care Product 003,Beauty,Personal Care,7912.86,11627.8
+P0004,Laptops Product 004,Electronics,Laptops,6092.96,8516.58
+P0005,Chairs Product 005,Furniture,Chairs,27171.32,40121.8
+P0006,Paper Product 006,Office Supplies,Paper,1472.35,1940.89
+P0007,Storage Product 007,Furniture,Storage,13108.06,18764.26
+P0008,Kitchen Product 008,Home Appliances,Kitchen,11605.34,15127.16
+P0009,Paper Product 009,Office Supplies,Paper,27267.47,33763.73
+P0010,Kitchen Product 010,Home Appliances,Kitchen,1232.55,1708.62
+P0011,Storage Product 011,Furniture,Storage,8994.13,11666.8
+P0012,Haircare Product 012,Beauty,Haircare,2017.18,2501.92
+P0013,Tables Product 013,Furniture,Tables,6143.84,9218.22
+P0014,Skincare Product 014,Beauty,Skincare,18996.48,27828.56
+P0015,Mobiles Product 015,Electronics,Mobiles,23501.09,29950.22
+P0016,Haircare Product 016,Beauty,Haircare,10452.22,14248.78
+P0017,Writing Product 017,Office Supplies,Writing,8258.98,9342.62
+P0018,Skincare Product 018,Beauty,Skincare,1073.24,1576.16
+P0019,Paper Product 019,Office Supplies,Paper,24297.89,32141.84
+P0020,Binders Product 020,Office Supplies,Binders,29988.25,46146.26
+P0021,Laptops Product 021,Electronics,Laptops,19774.56,24413.8
+P0022,Laptops Product 022,Electronics,Laptops,17355.62,26771.84
+P0023,Cleaning Product 023,Home Appliances,Cleaning,28069.14,43405.08
+P0024,Chairs Product 024,Furniture,Chairs,7249.22,9110.4
+P0025,Binders Product 025,Office Supplies,Binders,1040.56,1478.89
+P0026,Personal Care Product 026,Beauty,Personal Care,4434.65,6775.25
+P0027,Small Appliances Product 027,Home Appliances,Small Appliances,9409.78,12523.36
+P0028,Laptops Product 028,Electronics,Laptops,7132.18,8659.09
+P0029,Haircare Product 029,Beauty,Haircare,220.37,333.79
+P0030,Chairs Product 030,Furniture,Chairs,10354.62,12387.31
+P0031,Paper Product 031,Office Supplies,Paper,853.0,1170.52
+P0032,Chairs Product 032,Furniture,Chairs,25425.13,37885.68
+P0033,Mobiles Product 033,Electronics,Mobiles,21195.23,29773.36
+P0034,Skincare Product 034,Beauty,Skincare,10229.52,12876.1
+P0035,Storage Product 035,Furniture,Storage,28471.07,41581.78
+P0036,Small Appliances Product 036,Home Appliances,Small Appliances,9655.05,13749.65
+P0037,Personal Care Product 037,Beauty,Personal Care,26710.09,36963.96
+P0038,Paper Product 038,Office Supplies,Paper,20032.84,29452.59
+P0039,Cleaning Product 039,Home Appliances,Cleaning,22073.05,27517.2
+P0040,Storage Product 040,Furniture,Storage,253.58,360.56
+P0041,Haircare Product 041,Beauty,Haircare,25552.56,37088.44
+P0042,Skincare Product 042,Beauty,Skincare,5626.04,7070.99
+P0043,Skincare Product 043,Beauty,Skincare,19261.47,22435.13
+P0044,Kitchen Product 044,Home Appliances,Kitchen,10068.82,11613.95
+P0045,Writing Product 045,Office Supplies,Writing,5203.05,7808.15
+P0046,Accessories Product 046,Electronics,Accessories,20166.73,28910.88
+P0047,Writing Product 047,Office Supplies,Writing,539.59,652.99
+P0048,Mobiles Product 048,Electronics,Mobiles,7848.41,9154.82
+P0049,Laptops Product 049,Electronics,Laptops,11700.93,16790.97
+P0050,Tables Product 050,Furniture,Tables,14893.84,19106.51
+P0051,Haircare Product 051,Beauty,Haircare,3222.57,4273.71
+P0052,Personal Care Product 052,Beauty,Personal Care,22795.66,27742.33
+P0053,Kitchen Product 053,Home Appliances,Kitchen,24016.0,27242.97
+P0054,Mobiles Product 054,Electronics,Mobiles,7981.61,9298.83
+P0055,Paper Product 055,Office Supplies,Paper,26660.35,31704.19
+P0056,Accessories Product 056,Electronics,Accessories,28266.66,43546.43
+P0057,Binders Product 057,Office Supplies,Binders,29561.23,44462.67
+P0058,Mobiles Product 058,Electronics,Mobiles,28284.78,33685.72
+P0059,Kitchen Product 059,Home Appliances,Kitchen,1795.96,2267.17
+P0060,Tables Product 060,Furniture,Tables,20976.46,30006.33
+P0061,Haircare Product 061,Beauty,Haircare,19885.82,24815.16
+P0062,Laptops Product 062,Electronics,Laptops,11908.49,16152.14
+P0063,Kitchen Product 063,Home Appliances,Kitchen,1824.24,2046.14
+P0064,Mobiles Product 064,Electronics,Mobiles,24752.14,34375.5
+P0065,Kitchen Product 065,Home Appliances,Kitchen,3090.21,3736.03
+P0066,Paper Product 066,Office Supplies,Paper,14312.41,16740.78
+P0067,Cleaning Product 067,Home Appliances,Cleaning,14775.09,20747.88
+P0068,Accessories Product 068,Electronics,Accessories,16414.96,19689.73
+P0069,Cleaning Product 069,Home Appliances,Cleaning,5760.17,6561.9
+P0070,Cleaning Product 070,Home Appliances,Cleaning,8049.34,11912.57
+P0071,Skincare Product 071,Beauty,Skincare,4703.69,6676.81
+P0072,Laptops Product 072,Electronics,Laptops,20110.61,29512.67
+P0073,Small Appliances Product 073,Home Appliances,Small Appliances,6979.88,8000.5
+P0074,Small Appliances Product 074,Home Appliances,Small Appliances,12675.24,17115.01
+P0075,Small Appliances Product 075,Home Appliances,Small Appliances,26473.29,35071.62
+P0076,Mobiles Product 076,Electronics,Mobiles,27102.76,38679.74
+P0077,Personal Care Product 077,Beauty,Personal Care,27033.56,39582.37
+P0078,Skincare Product 078,Beauty,Skincare,3784.4,5470.7
+P0079,Chairs Product 079,Furniture,Chairs,29170.51,42811.75
+P0080,Chairs Product 080,Furniture,Chairs,12816.57,19801.09
+P0081,Kitchen Product 081,Home Appliances,Kitchen,29918.62,41578.12
+P0082,Haircare Product 082,Beauty,Haircare,9728.53,13937.62
+P0083,Laptops Product 083,Electronics,Laptops,11765.35,15187.45
+P0084,Writing Product 084,Office Supplies,Writing,15686.71,23755.63
+P0085,Accessories Product 085,Electronics,Accessories,18767.13,25236.19
+P0086,Kitchen Product 086,Home Appliances,Kitchen,12550.38,14856.21
+P0087,Personal Care Product 087,Beauty,Personal Care,22799.65,34747.8
+P0088,Accessories Product 088,Electronics,Accessories,23430.43,34158.54
+P0089,Haircare Product 089,Beauty,Haircare,26361.23,32518.65
+P0090,Small Appliances Product 090,Home Appliances,Small Appliances,18347.07,20844.29
+P0091,Writing Product 091,Office Supplies,Writing,4486.81,6199.52
+P0092,Kitchen Product 092,Home Appliances,Kitchen,11994.62,17967.36
+P0093,Chairs Product 093,Furniture,Chairs,22423.34,33992.87
+P0094,Paper Product 094,Office Supplies,Paper,10268.41,15004.92
+P0095,Writing Product 095,Office Supplies,Writing,25316.83,37697.8
+P0096,Laptops Product 096,Electronics,Laptops,4204.69,6470.66
+P0097,Cleaning Product 097,Home Appliances,Cleaning,8228.72,10690.85
+P0098,Laptops Product 098,Electronics,Laptops,13363.15,20215.45
+P0099,Small Appliances Product 099,Home Appliances,Small Appliances,14636.92,19644.15
+P0100,Paper Product 100,Office Supplies,Paper,15555.04,18484.96
+P0101,Binders Product 101,Office Supplies,Binders,15302.5,18031.39
+P0102,Personal Care Product 102,Beauty,Personal Care,1062.66,1278.26
+P0103,Chairs Product 103,Furniture,Chairs,7634.81,10049.49
+P0104,Binders Product 104,Office Supplies,Binders,6133.47,7840.97
+P0105,Small Appliances Product 105,Home Appliances,Small Appliances,12028.88,18246.87
+P0106,Laptops Product 106,Electronics,Laptops,11299.51,15541.78
+P0107,Tables Product 107,Furniture,Tables,17689.03,22472.09
+P0108,Tables Product 108,Furniture,Tables,22519.04,31891.59
+P0109,Paper Product 109,Office Supplies,Paper,11719.66,13946.98
+P0110,Skincare Product 110,Beauty,Skincare,25741.91,35996.8
+P0111,Tables Product 111,Furniture,Tables,19617.3,26301.13
+P0112,Mobiles Product 112,Electronics,Mobiles,27363.16,38263.82
+P0113,Skincare Product 113,Beauty,Skincare,6868.35,9489.23
+P0114,Binders Product 114,Office Supplies,Binders,29017.33,40519.17
+P0115,Cleaning Product 115,Home Appliances,Cleaning,25577.27,33694.71
+P0116,Tables Product 116,Furniture,Tables,9203.92,12368.91
+P0117,Haircare Product 117,Beauty,Haircare,17617.72,19787.51
+P0118,Binders Product 118,Office Supplies,Binders,19490.8,26934.17
+P0119,Binders Product 119,Office Supplies,Binders,3421.52,3926.02
+P0120,Binders Product 120,Office Supplies,Binders,9889.08,12253.17
