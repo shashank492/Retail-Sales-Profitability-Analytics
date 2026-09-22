@@ -1,0 +1,47 @@
+# AWS S3 Setup
+
+## S3 Bucket
+
+Bucket:
+retail-sales-profitability-analytics-2026
+
+Region:
+Asia Pacific (Mumbai) - ap-south-1
+
+## Folder Structure
+
+raw/
+processed/
+reference/
+
+## Processed Files
+
+- customers_clean.csv
+- products_clean.csv
+- stores_clean.csv
+- sales_clean.csv
+
+## IAM
+
+IAM Role:
+Snowflake-test-role
+
+Purpose:
+Allows Snowflake to securely read processed files from the S3 bucket.
+
+## Snowflake Integration
+
+Storage Integration:
+RETAIL_S3_INTEGRATION
+
+Allowed S3 Location:
+
+s3://retail-sales-profitability-analytics-2026/processed/
+
+## Security
+
+- Public access blocked
+- ACLs disabled
+- S3 server-side encryption enabled
+- Snowflake uses IAM role-based access
+- Read-only S3 permissions were configured for processed data
