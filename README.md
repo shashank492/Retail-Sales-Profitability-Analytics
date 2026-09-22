@@ -93,7 +93,7 @@ The project contains:
 - Discount vs profit margin
 - Interactive slicers
 
-## 📈 Key KPIs
+## 📈 Key KPIs   "C:\Users\shash\OneDrive\Desktop\Retail-Sales-Profitability-Analytics\screenshot\Screenshot 2026-09-22 151232.png"
 
 - Total Sales: ₹496.52M
 - Total Profit: ₹101.00M
